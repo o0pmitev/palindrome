@@ -9,5 +9,5 @@ let Phrase = require("pmitev-palindrome");
 let napoleonsLament = new Phrase("Able was I, ere I saw Elba.");
 console.log(napoleonsLament.palindrome());
 
-$node test.js
+$ node test.js
 true
